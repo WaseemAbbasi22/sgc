@@ -1,5 +1,4 @@
 import React from 'react';
-import img from '../images/Web-developer.svg';
 import { Link } from 'react-router-dom';
 
 const Intro = () => {
@@ -15,8 +14,8 @@ const Intro = () => {
                         <div className='flex justify-center'>
                             <div className='w-24 border-b-4 border-secondary'></div>
                         </div>
-                        <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">Your Experts in Property Rental Management.</h2>
-                        <h4 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-normal text-blue-900">We are a leading property rental management company based in <span className='text-primary'>UAE</span>  dedicated to connecting renters with their ideal homes and helping property owners maximize their investments.</h4>
+                        <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold ">Your Experts in Property Rental Management.</h2>
+                        <h4 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-normal ">We are a leading property rental management company based in the   <span className='text-secondary'> UAE</span> , committed to connecting renters with their ideal homes while helping property owners maximize their investments. With years of experience in the industry, we specialize in simplifying property rental management. Our comprehensive services are tailored to meet the needs of both landlords and tenants. Our mission is to enhance your property's value and provide a seamless rental experience.</h4>
                     </div>
 
                     {/* <div className="px-12" data-aos="fade-down" data-aos-delay="600">

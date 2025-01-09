@@ -5,9 +5,9 @@ module.exports = {
   theme: {
     extend: {},
     colors: {
-      secondary: '#AC825D', 
+      secondary: '#C56D00', 
       primary: '#94A3B8', 
-      navBg: '#1F232B', 
+      navBg: '#181D24', 
     },
   },
   plugins: [],

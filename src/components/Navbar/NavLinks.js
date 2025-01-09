@@ -8,12 +8,9 @@ const NavLinks = () => {
             <HashLink className="px-4 font-medium  hover:text-blue-800" smooth to="/#about">
                 About
             </HashLink>
-            <HashLink className="px-4 font-mediumld hover:text-blue-800" smooth to="/#services">
-                Our Projects
+            <HashLink className="px-4 font-mediumld hover:text-blue-800" smooth to="/#projects">
+               Projects
             </HashLink>
-            {/* <HashLink className="px-4 font-medium hover:text-blue-800" to="/#products">
-                Products
-            </HashLink> */}
             <HashLink className="px-4 font-medium hover:text-blue-800" to="/contact#contact">
                 Contact Us
             </HashLink>

@@ -4,8 +4,7 @@ import Cta from '../components/Cta';
 import Footer from '../components/Footer';
 import Hero from '../components/Hero';
 import Intro from '../components/Intro';
-import Portfolio from '../components/Portfolio';
-import Services from '../components/Services';
+import Projects from '../components/Projects';
 import Mission from '../components/mission';
 
 
@@ -15,7 +14,7 @@ const Home = () => {
             <Hero />
             <Intro />
             <Mission/>
-            <Services />
+            <Projects />
             {/* <Portfolio /> */}
             {/* <Clients /> */}
             <Cta/>

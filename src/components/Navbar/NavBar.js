@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import NavLinks from '../Navbar/NavLinks';
 import { HashLink } from 'react-router-hash-link';
-import { APP_NAME,BACKGROUND_COLOR,SECONDARY_COLOR } from  '../../constants/const';
+import { APP_NAME} from  '../../constants/const';
+import logo from '../../images/logo.png';
 import { FaBars, FaTimes } from "react-icons/fa"; 
 
 const NavBar = () => {
@@ -22,9 +23,10 @@ const NavBar = () => {
 
     return (
     
-        <nav className={`bg-transprent  fixed top-0 w-full z-30 transition duration-300  ease-in-out mb-50  ${!top && 'bg-primary shadow-lg'}`}>
+        <nav className={`bg-transprent  fixed top-0 w-full z-30 transition duration-300  ease-in-out ${!top && 'bg-navBg shadow-lg'}`}>
             <div className="flex flex-row justify-between items-center py-2">
-                <div className="justify-center md:px-12 md:mx-12 items-center text-center font-semibold">
+                <div className=" items-center flex flex-row md:px-12 md:mx-12 text-center font-semibold">
+                <img src={logo} alt="Logo" className='w-24 h-24 object-contain' />
                     <HashLink smooth to="/#hero"><h1 className="font-bold text-2xl">{APP_NAME}</h1></HashLink>
                     
                 </div>

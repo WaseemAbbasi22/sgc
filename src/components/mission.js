@@ -5,16 +5,16 @@ const Mission = () => {
         <>
     
 
-    <div id="about" className="bg-gray-100 py-12" >
+    <div id="about" >
             <section data-aos="zoom-in-down">
-                    <div className="my-4 py-4">
+                    <div className="my-2">
                         <h2 className="my-2 text-center text-3xl text-secondary uppercase font-bold">Mission and Vision</h2>
                         
                         <div className='flex justify-center'>
                             <div className='w-24 border-b-4 border-secondary'></div>
                         </div>
                         <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">Seamless property management, trusted for life.</h2>
-                        <h4 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-normal text-blue-900">To simplify rentals with trusted, innovative solutions for renters and property owners, shaping the future of modern housing.</h4>
+                        <h4 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-normal text-blue-900">To revolutionize property rental management by delivering innovative solutions that prioritize the needs of both landlords and tenants. We aim to foster trust and convenience through streamlined processes, exceptional customer service, and a commitment to excellence in every aspect of our work.To be the most trusted and sought-after property rental management company in the UAE, driving the future of real estate with cutting-edge technology, sustainable practices, and a focus on creating harmonious living and investment experiences.</h4>
                     </div>
 
                     {/* <div className="px-12" data-aos="fade-down" data-aos-delay="600">
