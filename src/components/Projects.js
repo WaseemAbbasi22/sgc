@@ -24,9 +24,9 @@ const Projects = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center text-secondary">Web Development</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center text-secondary">Carrefour Building</h2>
                                     <p className="text-md font-medium">
-                                        We specialize in creating and optimizing high-quality, custom websites for businesses and organizations of all sizes. Building mobile-friendly and easy-to-use websites and applications for clients.
+                                    Carrefour Building is strategically located in Jabel Ali Industrial Area 1 Duabi and designed to accommodate a large amount of workers comfortably. It offers spacious residential rooms with essential furniture and proper ventilation. The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security, including CCTV surveillance and trained personnel. Reliable electricity and water supply, backed by contingency systems, guarantee uninterrupted services.Carrefour Building is an ideal facility for effective labor management.
                                     </p>
                                 </div>
                             </div>
@@ -34,9 +34,9 @@ const Projects = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img2} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center text-secondary">Mobile App Development</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center text-secondary">Bin Dasmal Printing Press</h2>
                                     <p className="text-md font-medium">
-                                        We develop high-quality, custom cross-platform mobile applications that are robust and optimized for performance, scalability, and accessibility.
+                                    Bin Dasmal Printing Press is strategically located in <span className='text-lg text-primary'>Sonapur Mohaisnah 1 Dubai</span> and designed to accommodate  a large amount of  workers  comfortably. It offers spacious residential rooms with essential furniture and proper ventilation. The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security, including CCTV surveillance and trained personnel. Reliable electricity and water supply, backed by contingency systems, guarantee uninterrupted services.Bin Dasmal Printing Press is an ideal facility for effective labor management.
                                     </p>
                                 </div>
                             </div>
@@ -44,9 +44,9 @@ const Projects = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center text-secondary ">Domain and Hosting Services</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center text-secondary ">Labour Rights Social Media Marketing</h2>
                                     <p className="text-md font-medium">
-                                        We provide domain registration and web hosting services to individuals and organizations to enable them gain visibility in the digital space.
+                                    Labour Rights Social Media Marketing is strategically located in  Sonapur Mohaisnah 1 Dubai and designed to accommodate  a large amount of  workers comfortably. It offers spacious residential rooms with essential furniture and proper ventilation. The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security, including CCTV surveillance and trained personnel. Reliable electricity and water supply, backed by contingency systems, guarantee uninterrupted services.Labour Rights Social Media Marketing is an ideal facility for effective labor management.
                                     </p>
                                 </div>
                             </div>
@@ -54,9 +54,9 @@ const Projects = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center text-secondary ">General IT Consultations</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center text-secondary ">Rashid Buset Building</h2>
                                     <p className="text-md font-medium">
-                                        Our IT consultations service provides expert guidance and support for businesses and individuals looking to optimize their technology solutions.
+                                    Rashid Buset Building is strategically located in  Sonapur Mohaisnah 1 Dubai and designed to accommodate  a large amount of workers comfortably. It offers spacious residential rooms with essential furniture and proper ventilation. The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security, including CCTV surveillance and trained personnel. Reliable electricity and water supply, backed by contingency systems, guarantee uninterrupted services.Rashid Buset Building is an ideal facility for effective labor management.
                                     </p>
                                 </div>
                             </div>                    

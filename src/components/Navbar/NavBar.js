@@ -24,7 +24,7 @@ const NavBar = () => {
     return (
     
         <nav className={`bg-transprent  fixed top-0 w-full z-30 transition duration-300  ease-in-out ${!top && 'bg-navBg shadow-lg'}`}>
-            <div className="flex flex-row justify-between items-center py-2">
+            <div className="flex flex-row justify-between items-center ">
                 <div className=" items-center flex flex-row md:px-12 md:mx-12 text-center font-semibold">
                 <img src={logo} alt="Logo" className='w-24 h-24 object-contain' />
                     <HashLink smooth to="/#hero"><h1 className="font-bold text-2xl">{APP_NAME}</h1></HashLink>
