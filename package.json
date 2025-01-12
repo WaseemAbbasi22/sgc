@@ -1,8 +1,8 @@
 {
-  "name": "mld",
+  "name": "sgc",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://mld.ng/",
+  "private": false,
+  "homepage": "https://WaseemAbbasi22.github.io/sgc",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -23,6 +23,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
