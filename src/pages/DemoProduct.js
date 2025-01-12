@@ -2,13 +2,14 @@ import React, { useState } from 'react';
 import NavBar from '../components/Navbar/NavBar';
 import Footer from '../components/Footer';
 import {useDocTitle} from '../components/CustomHook';
+import { APP_NAME} from  '../constants/const';
 import axios from 'axios';
 // import emailjs from 'emailjs-com';
 import Notiflix from 'notiflix';
 
 const DemoProduct = (props) => {
 
-    useDocTitle('MLD | Molad e Konsult - Demo our products')
+    useDocTitle({APP_NAME})
 
     const [firstName, setFirstName] = useState('')
     const [lastName, setLastName] = useState('')
