@@ -27,7 +27,7 @@ const NavBar = () => {
             <div className="flex flex-row justify-between items-center ">
                 <div className=" items-center flex flex-row md:px-12 md:mx-12 text-center font-semibold">
                 <img src={logo} alt="Logo" className='w-24 h-24 object-contain' />
-                    <HashLink smooth to="/#hero"><h1 className="font-bold text-2xl">{APP_NAME}</h1></HashLink>
+                    <HashLink smooth to="/#"><h1 className="font-bold text-2xl">{APP_NAME}</h1></HashLink>
                     
                 </div>
                 <div className="group flex flex-col items-center">
@@ -42,9 +42,9 @@ const NavBar = () => {
                         <NavLinks  />
                     </div>
 
-                    <div className={`fixed transition-transform duration-300 ease-in-out transit flex justify-center left-0 w-full h-auto rounded-md p-24 bg-secondary lg:hidden shadow-xl top-14 ${  isOpen ? "block" : "hidden" } `}>
-                        <div className='flex flex-col space-y-6 '>
-                            <NavLinks />
+                    <div className={`fixed transition-transform duration-300 ease-in-out transit flex justify-center left-0 w-full h-auto rounded-md p-12 bg-navBg lg:hidden shadow-xl top-20 ${  isOpen ? "block" : "hidden" } `}>
+                        <div className='flex flex-col space-y-6  '>
+                            <NavLinks onClick={handleClick} />
                         </div>                                                
                     </div>
 

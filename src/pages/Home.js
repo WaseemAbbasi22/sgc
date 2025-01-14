@@ -6,6 +6,7 @@ import Hero from '../components/Hero';
 import Intro from '../components/Intro';
 import Projects from '../components/Projects';
 import Mission from '../components/mission';
+import Contact from './Contact';
 
 
 const Home = () => {
@@ -14,10 +15,12 @@ const Home = () => {
             <Hero />
             <Intro />
             <Mission/>
+            <Cta/> 
             <Projects />
             {/* <Portfolio /> */}
-            {/* <Clients /> */}
-            <Cta/>
+          
+         
+            <Contact />
             <Footer />
         </>
 

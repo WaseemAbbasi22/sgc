@@ -8,6 +8,7 @@ module.exports = {
       secondary: '#C56D00', 
       primary: '#94A3B8', 
       navBg: '#181D24', 
+      textColor: '#181D24', 
     },
   },
   plugins: [],

@@ -61,7 +61,7 @@ const Footer = () => {
                     </div> */}
 
                     {/* 4th block */}
-                    <div className="col-span-12 text-center mx-auto lg:col-span-3 font-bold uppercase mb-4 text-blue-900 mt-10">
+                    {/* <div className="col-span-12 text-center mx-auto lg:col-span-3 font-bold uppercase mb-4 text-blue-900 mt-10">
                         <div className="text-xl mb-6 text-white">
                         Contact Us.
                         </div>
@@ -73,19 +73,19 @@ const Footer = () => {
                                 <ul className="flex justify-center mb-4 md:mb-0">
                                     <li>
                                     Phone:
-                                        {/* <Link to="#" className="flex justify-center items-center text-blue-900 hover:text-gray-500 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" aria-label="Twitter">
+                                        <Link to="#" className="flex justify-center items-center text-blue-900 hover:text-gray-500 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" aria-label="Twitter">
                                        <FaTwitter className="w-8 h-8 py-2" /> 
-                                        </Link> */}
+                                        </Link>
                                     </li>
                                     <li className="ml-4">
                                     Email:
-                                        {/* <Link to="#" className="flex justify-center items-center text-blue-900 hover:text-gray-500 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" aria-label="Facebook">
+                                        <Link to="#" className="flex justify-center items-center text-blue-900 hover:text-gray-500 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" aria-label="Facebook">
                                         <FaFacebook className="w-8 h-8 py-2" /> 
-                                        </Link> */}
+                                        </Link>
                                     </li>
                                 </ul>
                             </div>
-                    </div>          
+                    </div>           */}
 
                     </div>
 
