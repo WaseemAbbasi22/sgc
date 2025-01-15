@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import NavLinks from '../Navbar/NavLinks';
 import { HashLink } from 'react-router-hash-link';
 import { APP_NAME} from  '../../constants/const';
-import logo from '../../images/logo.png';
+import logo from '../../images/logo_1.png';
 import { FaBars, FaTimes } from "react-icons/fa"; 
 
 const NavBar = () => {
@@ -26,8 +26,8 @@ const NavBar = () => {
         <nav className={`bg-transprent  fixed top-0 w-full z-30 transition duration-300  ease-in-out ${!top && 'bg-navBg shadow-lg'}`}>
             <div className="flex flex-row justify-between items-center ">
                 <div className=" items-center flex flex-row md:px-12 md:mx-12 text-center font-semibold">
-                <img src={logo} alt="Logo" className='w-24 h-24 object-contain' />
-                    <HashLink smooth to="/#"><h1 className="font-bold text-2xl">{APP_NAME}</h1></HashLink>
+                <HashLink smooth to="/#"><img src={logo} alt="Logo" className='w-16 h-20 py-2 pl-1 object-contain' /></HashLink>
+                    {/* <HashLink smooth to="/#"><h1 className="font-bold text-2xl">{APP_NAME}</h1></HashLink> */}
                     
                 </div>
                 <div className="group flex flex-col items-center">
