@@ -212,7 +212,7 @@ const Contact = () => {
                                     <i className="fas fa-map-marker-alt pt-2 pr-2" />
                                     <div>
                                         <h2 className="text-2xl">Office Address</h2>
-                                        <p className="text-gray-400">Ilo Awela, Ota, Ogun State</p>
+                                        <p className="text-gray-400">Building 44 Office-1 Jabel Ali Parco Dubai</p>
                                     </div>
                                 </div>
     
@@ -220,13 +220,13 @@ const Contact = () => {
                                     <i className="fas fa-phone-alt pt-2 pr-2" />
                                     <div>
                                         <h2 className="text-2xl">Call Us</h2>
-                                        <p className="text-gray-400">Tel: 08055384406</p>
+                                        <p className="text-gray-400">Mob: +971503003142</p>
                                     </div>
                                 </div>
     
                                 <div className="mt-5">
                                     <h2 className="text-2xl">Send an E-mail</h2>
-                                    <p className="text-gray-400">info@mld.ng</p>
+                                    <p className="text-gray-400">maabbasi478@gmail.com</p>
                                 </div>
     
                                 <div className="flex mt-8 space-x-2">
