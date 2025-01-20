@@ -226,7 +226,7 @@ const Contact = () => {
     
                                 <div className="mt-5">
                                     <h2 className="text-2xl">Send an E-mail</h2>
-                                    <p className="text-gray-400">maabbasi478@gmail.com</p>
+                                    <p className="text-gray-400">info@sgcmanagements.com</p>
                                 </div>
     
                                 <div className="flex mt-8 space-x-2">

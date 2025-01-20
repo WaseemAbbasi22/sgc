@@ -17,7 +17,7 @@ const Home = () => {
             <Mission/>
             <Cta/> 
             <Projects />
-            {/* <Portfolio /> */}
+            <Clients />
           
          
             <Contact />

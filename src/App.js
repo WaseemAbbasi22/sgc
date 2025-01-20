@@ -33,7 +33,7 @@ function App() {
 
   return (
     <>
-      <Router basename="/sgc">
+      <Router>
         <ScrollToTop>
           <Routes>
             <Route path="/" element={<Home />} />

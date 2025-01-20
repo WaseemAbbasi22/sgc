@@ -20,43 +20,43 @@ const Projects = () => {
 
                     <div className="px-12" data-aos="fade-down" data-aos-delay="600">
                         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
-                            
+                            ``
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
-                                <div className="m-2 text-justify text-sm">
+                                <div className="m-2 text-center text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img} />
                                     <h2 className="font-semibold my-4 text-2xl text-center text-secondary">Carrefour Building</h2>
-                                    <p className="text-md font-medium">
-                                    Carrefour Building is strategically located in <span className='text-lg text-primary'>Jabel Ali Industrial Area 1 Duabi</span>   and designed to accommodate a large amount of workers comfortably. It offers spacious residential rooms with essential furniture and proper ventilation. The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security, including CCTV surveillance and trained personnel. Reliable electricity and water supply, backed by contingency systems, guarantee uninterrupted services.Carrefour Building is an ideal facility for effective labor management.
+                                    <p className="text-md font-medium justify-center">
+                                    Carrefour Building is strategically located in <span className='text-lg text-primary'>Jabel Ali Industrial Area 1 Duabi </span>and designed to accommodate a large amount of workers comfortably. It offers spacious residential rooms with essential furniture and proper ventilation.The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security,including CCTV surveillance and trained personnel. Reliable electricity and water supply,backed by contingency systems,guarantee uninterrupted services.Carrefour Building is an ideal facility for effective labour management.
                                     </p>
                                 </div>
                             </div>
 
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
-                                <div className="m-2 text-justify text-sm">
+                                <div className="m-2 text-center text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img2} />
                                     <h2 className="font-semibold my-4 text-2xl text-center text-secondary">Bin Dasmal Printing Press</h2>
                                     <p className="text-md font-medium">
-                                    Bin Dasmal Printing Press is strategically located in <span className='text-lg text-primary'>Sonapur Mohaisnah 1 Dubai</span> and designed to accommodate  a large amount of  workers  comfortably. It offers spacious residential rooms with essential furniture and proper ventilation. The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security, including CCTV surveillance and trained personnel. Reliable electricity and water supply, backed by contingency systems, guarantee uninterrupted services.Bin Dasmal Printing Press is an ideal facility for effective labor management.
+                                    Bin Dasmal Printing Press is strategically located in <span className='text-lg text-primary'>Sonapur Mohaisnah 1 Dubai </span>and designed to accommodate a large amount of workers comfortably.It offers spacious residential rooms with essential furniture and proper ventilation.The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security,including CCTV surveillance and trained personnel. Reliable electricity and water supply,backed by contingency systems,guarantee uninterrupted services.Bin Dasmal Printing Press is an ideal facility for effective labour management.
                                     </p>
                                 </div>
                             </div>
 
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
-                                <div className="m-2 text-justify text-sm">
+                                <div className="m-2 text-center text-sm">
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center text-secondary ">Labour Rights Social Media Marketing</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-justify text-secondary ">Labour Rights Social Media Marketing</h2>
                                     <p className="text-md font-medium">
-                                    Labour Rights Social Media Marketing is strategically located in  <span className='text-lg text-primary'>Sonapur Mohaisnah 1 Dubai</span>  and designed to accommodate  a large amount of  workers comfortably. It offers spacious residential rooms with essential furniture and proper ventilation. The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security, including CCTV surveillance and trained personnel. Reliable electricity and water supply, backed by contingency systems, guarantee uninterrupted services.Labour Rights Social Media Marketing is an ideal facility for effective labor management.
+                                    Labour Rights Social Media Marketing is strategically located in  <span className='text-lg text-primary'>Sonapur Mohaisnah 1 Dubai </span>and designed to accommodate  a large amount of  workers comfortably. It offers spacious residential rooms with essential furniture and proper ventilation.The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security,including CCTV surveillance and trained personnel. Reliable electricity and water supply,backed by contingency systems,guarantee uninterrupted services.Labour Rights Social Media Marketing is an ideal facility for effective labour management.
                                     </p>
                                 </div>
                             </div>
 
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
-                                <div className="m-2 text-justify text-sm">
+                                <div className="m-2 text-center text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
                                     <h2 className="font-semibold my-4 text-2xl text-center text-secondary ">Rashid Buset Building</h2>
                                     <p className="text-md font-medium">
-                                    Rashid Buset Building is strategically located in  <span className='text-lg text-primary'>Sonapur Mohaisnah 1 Dubai</span>  and designed to accommodate  a large amount of workers comfortably. It offers spacious residential rooms with essential furniture and proper ventilation. The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security, including CCTV surveillance and trained personnel. Reliable electricity and water supply, backed by contingency systems, guarantee uninterrupted services.Rashid Buset Building is an ideal facility for effective labor management.
+                                    Rashid Buset Building is strategically located in  <span className='text-lg text-primary'>Sonapur Mohaisnah 1 Dubai </span>and designed to accommodate  a large amount of workers comfortably. It offers spacious residential rooms with essential furniture and proper ventilation. The building is equipped with multiple washrooms and showers maintained to high cleanliness standards, ensuring the well-being of its residents.The camp prioritizes safety by 24/7 security, including CCTV surveillance and trained personnel. Reliable electricity and water supply,backed by contingency systems,guarantee uninterrupted services.Rashid Buset Building is an ideal facility for effective labour management.
                                     </p>
                                 </div>
                             </div>                    
@@ -83,9 +83,9 @@ const Projects = () => {
                             <div className='text-blue-900 mb-4'>
                                 <svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 24 24" className='fill-current'><path d="m7.375 16.781 1.25-1.562L4.601 12l4.024-3.219-1.25-1.562-5 4a1 1 0 0 0 0 1.562l5 4zm9.25-9.562-1.25 1.562L19.399 12l-4.024 3.219 1.25 1.562 5-4a1 1 0 0 0 0-1.562l-5-4zm-1.649-4.003-4 18-1.953-.434 4-18z"></path></svg>
                             </div>
-                            <h3 className="text-3xl  text-blue-900 font-bold">We <span className='font-black'>Collaborate</span></h3>
+                            <h3 className="text-3xl  text-blue-900 font-bold">We <span className='font-black'>Collabourate</span></h3>
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'>We can collaborate with your existing tech team to scale existing software applications or design customized software applications that suits your everyday need and simplifies various processes.</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>We can collabourate with your existing tech team to scale existing software applications or design customized software applications that suits your everyday need and simplifies various processes.</p>
                             </div>
                         </div>
                     </div>
